@@ -1,4 +1,4 @@
-# Info5000_multimodal_creation
+# Info5000 project: multimodal creation with AI
 source code for HKUST (GZ) info5k project.
 
 This code is based on https://github.com/aiwaves-cn/RecurrentGPT
